@@ -59,7 +59,7 @@ For more commands and detailed usage instructions, please refer to the official 
 **1. Why generate a new v1 address?**  
 
 After block height **39000**, only **v1 addresses** can receive transactions. Please set your v1 address to ensure normal transfers.
-
+Settlements made before block height 39000 will continue to be sent to your v0 address, while those made afterward will be sent to your configured v1 address.
 
 **2. When should I update my wallet address?**  
 
