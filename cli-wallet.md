@@ -15,6 +15,8 @@ The current address is
 `3xSeKwtK5jYkPkVw79iY21M1b2ANy93MW3T5mCi8U1voUoyoFHPoA6Vo3ysNjSLKsmBeL7qBxRYvvKBX5Jx9PJd8RNUZdk6E5iBNRj4HdcHfAHCT6iEEwaUaCXGWS2sgUStn`.  
 We'll use this address in the following steps as an example for the transaction demonstration.
 
+**Don't forget to save your Seed Phrase!**
+
 ---
 
 ### 2. Make sure the address is active
