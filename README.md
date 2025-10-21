@@ -1,4 +1,8 @@
 
+If you're new to Nock and have no idea how to use the CLI wallet, here's a minimalist tutorial you can refer to: [tutorial](./cli-wallet.md)
+
+
+
 ## Generate v1 Address
 
 ### 🧩 Prerequisites
@@ -52,7 +56,6 @@ For more commands and detailed usage instructions, please refer to the official 
 
 
 ## V1 Address Upgrade FAQ
-
 **1. Why generate a new v1 address?**  
 
 After block height **39000**, only **v1 addresses** can receive transactions. Please set your v1 address to ensure normal transfers.
