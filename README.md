@@ -15,8 +15,13 @@ If you happen to encounter difficulties during the compilation process and would
 
 Once the wallet is ready, run the following command in your terminal to generate a mining address (v1 address):
 
+First:
 ```bash
-nockchain-wallet generate-mining-pkh
+chmod +x nockchain-wallet
+```
+
+```bash
+./nockchain-wallet generate-mining-pkh
 ```
 
 After execution, you'll receive a new **v1 public key address** that can be used for mining or receiving payments.
@@ -35,7 +40,7 @@ To view all your current addresses, run:
 To set which address should be used for transfers or other operations, run:
 
 ```bash
-./target/release/nockchain-wallet set-active-master-addres <address>
+./nockchain-wallet set-active-master-addres <address>
 ```
 
 Please note that you can only use a v1 address to initiate transactions after block height 39000.
