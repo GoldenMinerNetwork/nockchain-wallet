@@ -12,7 +12,7 @@ Please **clone the source code from the official repository** at:
 
 Then compile the **latest version** of `nockchain-wallet` yourself.
 
-If you happen to encounter difficulties during the compilation process and would prefer a quicker setup, you may also **download our precompiled latest release of `nockchain-wallet`** to proceed with the steps below.
+If you happen to encounter difficulties during the compilation process and would prefer a quicker setup, you may also [download](https://github.com/GoldenMinerNetwork/nockchain-wallet/releases) **our precompiled latest release of `nockchain-wallet`** to proceed with the steps below.
 
 ---
 
