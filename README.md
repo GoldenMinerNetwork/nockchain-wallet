@@ -35,6 +35,8 @@ And the address will look like this
 After execution, you'll receive a new **v1 public key address** that can be used for mining or receiving payments.
 If the command is not recognized, please make sure you are using the **latest version** of nockchain-wallet.
 
+**Don't forget to save your Seed Phrase!**
+
 ---
 
 ### 💡 Manage Your Addresses
