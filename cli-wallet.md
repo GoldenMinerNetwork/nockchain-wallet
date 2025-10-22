@@ -92,6 +92,7 @@ nockchain-wallet send-tx "txs/DankWgWkc4aRtPqLGP4NscD3rHArch2wu2rti63PX3pnjf4rUV
 ---
 
 ### 6. Check if the transaction was successful  
+Generally, you need to wait more than **20 minutes** before checking in the browser.
 
 ![check-tx](./nockblocks-check.jpg)
 
