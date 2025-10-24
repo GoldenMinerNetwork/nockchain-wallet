@@ -68,7 +68,7 @@ Settlements made before block height 39000 will continue to be sent to your v0 a
 
 **2. When should I update my wallet address?**
 
-Set your **v1 address before block height 39000** to avoid delayed payments (about 3–4 days).
+Set your **v1 address before block height 39000** to avoid delayed payments
 
 **3. My site password is weak — could someone change my address?**
 
