@@ -73,7 +73,7 @@ Set your **v1 address before block height 39000** to avoid delayed payments
 **3. My site password is weak — could someone change my address?**
 
 Setting the **v1 address** can only be done **once** and **cannot be changed**.
-If you’ve set it, no one can modify it.
+If you've set it, no one can modify it.
 If someone else has already set it, **create a new account**, **use a stronger password**, and continue mining — your rewards before height 39000 will still go to your **v0 address**.
 Before height 39000, you can also lower your withdrawal threshold to send all previous Nocks to your **v0 address**.
 
@@ -88,4 +88,13 @@ Generate and set a **v1 address** immediately. After **height 39000**, all Nocks
 
 **6. What if I forget to set the v1 address before height 39000?**
 
-We settle daily at **06:00 UTC**. If your settlement occurs after **height 39000** without a v1 address, the transfer will wait until you’ve set one.
+We settle daily at **06:00 UTC**. If your settlement occurs after **height 39000** without a v1 address, the transfer will wait until you've set one.
+
+**7. Should I change the --pubkey parameters in my prover/proxy to the v1 address now?**
+
+No. If you have previously mined in our pool, please refer to item 4.
+
+If you're a new user, you need to generate both v0 and v1 address, set the --pubkey parameter to your v0 address, and fill in a v1 address on the homepage as your payout address.
+
+We're doing this to ensure that payments can be processed both before and after the upgrade. After the upgrade is completed, we'll release a new version of the prover/proxy that allows you to use a v1 address as the parameter.
+
