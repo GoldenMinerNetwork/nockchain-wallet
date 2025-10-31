@@ -57,7 +57,7 @@ To view all your current addresses, run:
 To set which address should be used for transfers or other operations, run:
 
 ```bash
-./nockchain-wallet set-active-master-addres <address>
+./nockchain-wallet set-active-master-address <address>
 ```
 
 Please note that you can only use a v1 address to initiate transactions after block height 39000.
