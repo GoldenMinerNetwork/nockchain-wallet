@@ -26,6 +26,12 @@ First:
 chmod +x nockchain-wallet
 ```
 
+If you are using the latest version of nockchain-wallet(above v1 v1 version of nockchain-wallet provided by us), then you only need to run:
+```bash
+./nockchain-wallet keygen
+```
+
+If you are using the v1 version of nockchain-wallet provided by us:
 ```bash
 ./nockchain-wallet generate-mining-pkh
 ```
