@@ -1,6 +1,7 @@
 
 If you're new to Nock and have no idea how to use the CLI wallet, here's a minimalist tutorial you can refer to: [tutorial](./cli-wallet.md)
 
+We have provided tutorials for transferring funds from a v0 address to a v1 address: [v0 to v1](./v0-v1.md), as well as from a v1 address to another v1 address: [v1 to v1](./v1-v1.md).
 
 
 ## Generate v1 Address
