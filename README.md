@@ -26,7 +26,7 @@ First:
 chmod +x nockchain-wallet
 ```
 
-If you are using the latest version of nockchain-wallet(above v1 v1 version of nockchain-wallet provided by us), then you only need to run:
+If you are using the latest version of nockchain-wallet(above v1 version of nockchain-wallet provided by us), then you only need to run:
 ```bash
 ./nockchain-wallet keygen
 ```
