@@ -44,6 +44,10 @@ If the command is not recognized, please make sure you are using the **latest ve
 
 **Don't forget to save your Seed Phrase!**
 
+**Don't forget to save your Seed Phrase!**
+
+**Don't forget to save your Seed Phrase!**
+
 ---
 
 ### 💡 Manage Your Addresses
